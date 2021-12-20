@@ -43,6 +43,7 @@ public class VariasClases {
      public static String generaIngrediente(){
   
        int aleat = (int) (Math.random()*3);
+         System.out.println("Version1 ");
        
        
        switch(aleat){
